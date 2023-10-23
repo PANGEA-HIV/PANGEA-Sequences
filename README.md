@@ -1,6 +1,6 @@
 # PANGEA 2 (Phylogenetics And Networks for Generalised Epidemics in Africa) HIV Sequencing project
 
-This page consists of uploaded [PANGEA](https://www.pangea-hiv.org/) consensus sequences sequenced in different research institutes in Africa for the referencing of publications. Each fasta file and metadata tsv file corresponds to a institute in charged of sampling the sequences. A wholistic metadata file consisting of all sequence metadata is also available. Details of all contributors and sequence locations of the PANGEA sequences are shown below: 
+This repository consists of uploaded [PANGEA](https://www.pangea-hiv.org/) consensus sequences sequenced in different research institutes in Africa for the referencing of publications. Each fasta file and metadata tsv file corresponds to a institute in charged of sampling the sequences. A wholistic metadata file consisting of all sequence metadata is also available. Details of all contributors and sequence locations of the PANGEA sequences are shown below: 
 
 #### Africa Health Research Institute [AHRI](https://www.ahri.org/) (South Africa)
 
@@ -27,7 +27,7 @@ Author 2
 Author 1\
 Author 2
 
-#### Partners in Prevention [Partners in Prevention](http://depts.washington.edu/uwicrc/?q=content/about-icrc) (Uganda/Kenya/South Africa/Botswana)
+#### Partners in Prevention [Partners](http://depts.washington.edu/uwicrc/?q=content/about-icrc) (Uganda/Kenya/South Africa/Botswana)
 
 Author 1\
 Author 2
