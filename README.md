@@ -1,2 +1,63 @@
-# PANGEA-Sequences
-Upload of PANGEA consensus sequences for the referencing of publications 
+# PANGEA 2 (Phylogenetics And Networks for Generalised Epidemics in Africa) HIV Sequencing project
+
+This page consists of uploaded [PANGEA](https://www.pangea-hiv.org/) consensus sequences sequenced in different research institutes in Africa for the referencing of publications. Each fasta file and metadata tsv file corresponds to a institute in charged of sampling the sequences. A wholistic metadata file consisting of all sequence metadata is also available. Details of all contributors and sequence locations of the PANGEA sequences are shown below: 
+
+#### Africa Health Research Institute [AHRI](https://www.ahri.org/) (South Africa)
+
+Author 1\
+Author 2
+
+#### Rakai Health Sciences Program [RHSP](https://www.rhsp.org/index.php) (Uganda)
+
+Author 1\
+Author 2
+
+#### Medical Research Council/Uganda Virus Research Institute [MRC](https://www.lshtm.ac.uk/research/units/mrc-uganda) (Uganda)
+
+Author 1\
+Author 2
+
+#### Zambart Project [Popart](https://www.zambart.org.zm/) (Zambia)
+
+Author 1\
+Author 2
+
+#### Botswana Harvard AIDS Institute Partnership [BHP](https://bhp.org.bw/) (Botswana)
+
+Author 1\
+Author 2
+
+#### Partners in Prevention [Partners in Prevention](http://depts.washington.edu/uwicrc/?q=content/about-icrc) (Uganda/Kenya/South Africa/Botswana)
+
+Author 1\
+Author 2
+
+
+#### Metadata Columns
+
+**Sequence_ID**: Randomised PANGEA ID in the format of PG-YY-CC-dddddd\
+PG - PANGEA\
+YY - 2 digit year\
+CC - Country Code\
+dddddd - randomised 6 digits\
+\
+**Country**: Sampling country\
+**Cohort**: Sampling cohort\
+**Subtype**: Reference Subtype used for the consensus building\
+**Status**: \
+**Date**: Date of  sampling in the format of MM-YYYY
+
+
+### Contributors to the project:
+
+Johns Hopkins University (USA)\
+London School of Hygiene and Tropical Medicine (UK)\
+Imperial College London (UK)\
+Partners in Prevention Project at the University of Washington (USA)\
+University of Edinburgh (UK)\
+University of Oxford (UK)
+
+### PANGEA Publications
+
+Publication citation 1\
+Publication citation 2
