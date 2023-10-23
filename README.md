@@ -48,14 +48,9 @@ dddddd - randomised 6 digits\
 **Date**: Date of  sampling in the format of MM-YYYY
 
 
-### Contributors to the project:
+### About the project:
 
-Johns Hopkins University (USA)\
-London School of Hygiene and Tropical Medicine (UK)\
-Imperial College London (UK)\
-Partners in Prevention Project at the University of Washington (USA)\
-University of Edinburgh (UK)\
-University of Oxford (UK)
+PANGEA-HIV 2 (Phylogenetics And Networks for Generalised Epidemics in Africa) is a collaboration between scientists from the Africa Health Research Institute (South Africa), Rakai Health Sciences Program (Uganda), Johns Hopkins University (USA), Medical Research Council/Uganda Virus Research Institute (Uganda), Zambart Project (Zambia), London School of Hygiene and Tropical Medicine (UK), Imperial College London (UK), Partners in Prevention Project at the University of Washington (USA), Botswana Harvard AIDS Institute Partnership (Botswana/USA), University of Edinburgh (UK), and the University of Oxford (UK).
 
 ### PANGEA Publications
 
