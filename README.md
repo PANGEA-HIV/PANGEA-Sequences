@@ -35,11 +35,12 @@ Author 2
 
 #### Metadata Columns
 
-**Sequence_ID**: Randomised PANGEA ID in the format of PG-YY-CC-dddddd\
+**Sequence_ID**: Randomised PANGEA ID in the format of PG-YY-CC-dddddda\
 PG - PANGEA\
 YY - 2 digit year\
 CC - Country Code\
 dddddd - randomised 6 digits\
+a - alphabet denoting multiple sequence from the same participant, increase in alphabet character denote new sequence \
 \
 **Country**: Sampling country\
 **Cohort**: Sampling cohort\
