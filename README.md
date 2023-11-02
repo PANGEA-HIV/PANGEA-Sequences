@@ -1,4 +1,5 @@
 # HIV Consensus Sequence Repository<br> of the PANGEA-HIV consortium
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This repository provides HIV consensus sequences of the [PANGEA-HIV consortium](https://www.pangea-hiv.org/).
 
@@ -19,12 +20,12 @@ Pillay, D. (PI), Cohen, M., D’Oliveira, T., Dennis, A., Essex, M., Fidler, S.,
 ### Available HIV consensus sequences:
 
 HIV consensus sequences are provided aligned in fasta file format for each cohort site from which the sequences were sampled:
- * Africa Health Research Institute [AHRI](https://www.ahri.org/) (South Africa)
- * Rakai Health Sciences Program [RHSP](https://www.rhsp.org/index.php) (Uganda)
- * Medical Research Council/Uganda Virus Research Institute [MRC](https://www.lshtm.ac.uk/research/units/mrc-uganda) (Uganda)
- * Zambart Project [Popart](https://www.zambart.org.zm/) (Zambia)
- * Botswana Harvard AIDS Institute Partnership [BHP](https://bhp.org.bw/) (Botswana)
- * Partners in Prevention [Partners](http://depts.washington.edu/uwicrc/?q=content/about-icrc) (Uganda/Kenya/South Africa/Botswana)
+ * Africa Health Research Institute ([AHRI](https://www.ahri.org/)), South Africa
+ * Rakai Health Sciences Program ([RHSP](https://www.rhsp.org/index.php)), Uganda
+ * Medical Research Council/Uganda Virus Research Institute ([MRC](https://www.lshtm.ac.uk/research/units/mrc-uganda)), Uganda
+ * Zambart Project ([Popart](https://www.zambart.org.zm/)), Zambia
+ * Botswana Harvard AIDS Institute Partnership ([BHP](https://bhp.org.bw/)), Botswana
+ * Partners in Prevention ([Partners](http://depts.washington.edu/uwicrc/?q=content/about-icrc)), Uganda/Kenya/South Africa/Botswana
 
 ### Publicly available metadata:
 
@@ -40,4 +41,20 @@ Metadata name | Metadata description
 **Date** | Date of  sampling in the format of MM-YYYY
 
 [Further meta-data associated with the participants from which the pathogen sequences were sampled are available, please follow this link](https://www.pangea-hiv.org/join-us).
+
+## License
+The data in this repository are licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) by PANGEA-HIV.
+
+## Warranty
+
+PANGEA-HIV makes no representation or warranty about the accuracy or completeness of the data. PANGEA-HIV accepts no liability or responsibility for any use which may be made of any data, for results derived from these data, nor for any reliance which may be placed on any such work or results.
+
+## Funding
+
+PANGEA-HIV is supported by the following organizations:
+- [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/) (OPP1175094, OPP1084362)
+
+## Acknowledgements
+PANGEA-HIV thanks all contributors, program staff and participants across all contributing cohorts; and all members of the consortium.
+
 
