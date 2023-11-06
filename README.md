@@ -42,6 +42,8 @@ Metadata name | Metadata description
 
 [Further meta-data associated with the participants from which the pathogen sequences were sampled are available, please follow this link](https://www.pangea-hiv.org/join-us).
 
+The [publications folder](publications) contains list of PANGEA Sequence IDs as used in specific research publications.
+
 ## License
 The data in this repository are licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) by PANGEA-HIV.
 
