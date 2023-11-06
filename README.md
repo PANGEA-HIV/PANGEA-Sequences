@@ -5,7 +5,7 @@ This repository provides HIV consensus sequences of the [PANGEA-HIV consortium](
 
 HIV sequence data were obtained from participants from multiple cohorts across Africa and generated following deep-sequencing by the [PANGEA-HIV consortium](https://www.pangea-hiv.org). PANGEA-HIV stands for "Phylogenetics And Networks for Generalised Epidemics in Africa". 
 
-The overarching goal of the PANGEA consortium is to identify individual and population level factors that drive the epidemic using HIV-1 phylogenetic data, analyse the dynamics of the epidemic, and translate these findings into information that can be used to more effectively target interventions. 
+The overarching goal of the PANGEA consortium is to identify individual and population level factors that drive the epidemic using HIV-1 phylogenetic data, analyse the dynamics of the epidemic, and translate these findings into information that can be used to design more efficient interventions.
 
 ### About the project:
 
