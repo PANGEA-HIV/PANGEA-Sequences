@@ -33,7 +33,7 @@ Available metadata are provided in a tsv file for each cohort site from which th
 
 Metadata name | Metadata description
 ------------- | -------------
-**Sequence_ID**  | Randomised PANGEA ID in the format of PG-YY-CC-dddddda<br> PG - PANGEA<br> YY - 2 digit year<br> CC - Country Code<br> dddddd - randomised 6 digits<br> a - alphabet denoting multiple sequence from the same participant on the same visit, increase in alphabet character denote a new sequence 
+**Sequence_ID**  | Randomised PANGEA ID in the format of PG-YY-CC-dddddd.1a<br> PG - PANGEA<br> YY - 2 digit year<br> CC - Country Code<br> dddddd - randomised 6 digits<br> .1 - number denotes same participant sample taken at a different date, increase in number shows a later visit<br> a - alphabet denoting multiple sequence from the same participant on the same visit, increase in alphabet character denote a new sequence 
 **Country**  | Sampling country
 **Cohort** | Sampling cohort
 **Subtype** | Reference Subtype used for the consensus building
